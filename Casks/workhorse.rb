@@ -1,6 +1,6 @@
 cask "workhorse" do
   version "0.1.0"
-  sha256 "REPLACE_WITH_SHASUM_AFTER_FIRST_RELEASE"
+  sha256 "f6e235fe08672bfa0d29c82940d4d19e12b75a6a6461dc40759960565b5113ba"
 
   url "https://github.com/xiaohukang/WorkHorse/releases/download/v#{version}/WorkHorse-#{version}.zip"
   name "牛马时光"
